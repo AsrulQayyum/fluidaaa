@@ -1,0 +1,339 @@
+<?xml version="1.0"?>
+<presentation title="Fluida Dinamsi (Debit Kontinuitas)" width="720.0000000" height="540.0000000" thmbWidth="0.0000000" thmbHeight="0.0000000" frameRate="24.0000000" looping="0" startingSlideShow="" pptVersion="2007" type="compound" hasExternalAudio="0" uid="{FC5EA746-EC6C-4203-A4BA-4D986F0D5686}">
+	<presenters/>
+	<references/>
+	<soundAssets/>
+	<sharedAssetsLibrary src="assets.swf"/>
+	<graphicAssets/>
+	<playlists/>
+	<narration/>
+	<settings>
+		<navigation>
+			<keyboard enabled="1">
+				<actions>
+					<action name="playPause">
+						<shortcut code="32" control="0" shift="0"/>
+					</action>
+					<action name="nextSlide">
+						<shortcut code="34" control="0" shift="0"/>
+					</action>
+					<action name="previousSlide">
+						<shortcut code="33" control="0" shift="0"/>
+					</action>
+					<action name="nextStep">
+						<shortcut code="13" control="0" shift="0"/>
+					</action>
+					<action name="previousStep">
+						<shortcut code="13" control="0" shift="1"/>
+					</action>
+					<action name="firstSlide">
+						<shortcut code="36" control="1" shift="0"/>
+					</action>
+					<action name="lastSlide">
+						<shortcut code="35" control="1" shift="0"/>
+					</action>
+					<action name="lastViewedSlide">
+						<shortcut code="8" control="0" shift="0"/>
+					</action>
+					<action name="slideStart">
+						<shortcut code="36" control="0" shift="0"/>
+					</action>
+					<action name="slideEnd">
+						<shortcut code="35" control="0" shift="0"/>
+					</action>
+					<action name="seekForward">
+						<shortcut code="39" control="0" shift="0"/>
+					</action>
+					<action name="seekBackward">
+						<shortcut code="37" control="0" shift="0"/>
+					</action>
+					<action name="volumeUp">
+						<shortcut code="38" control="0" shift="0"/>
+					</action>
+					<action name="volumeDown">
+						<shortcut code="40" control="0" shift="0"/>
+					</action>
+					<action name="toggleFullscreen">
+						<shortcut code="70" control="1" shift="0"/>
+					</action>
+				</actions>
+			</keyboard>
+			<mouse enabled="1" target="step"/>
+			<gesture zoom="1"/>
+		</navigation>
+		<appearance fullScreen="1" showSlidePreloader="1"/>
+		<playback autoStart="1" syncWithVideoNarration="1" enableVideoControl="1" resumePresentationPlayback="never"/>
+	</settings>
+	<slides embedded="0">
+		<slide index="0" title="Fluida Dinamis “Debit Kontinuitas”" titleNormalized="fluida dinamis “debit kontinuitas”" src="slide1.swf" size="36995" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Fluida Dinamis “Debit Kontinuitas”
+By
+Muh Asrarul Qayyum
+1712042007</text>
+		</slide>
+		<slide index="1" title="" titleNormalized="" src="slide2.swf" size="9414" advanceOnTime="0" framesCount="139" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="RandomTransition" duration="0.5000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000"/>
+				<step start="1" end="25" playTime="0.9990000"/>
+				<step start="26" end="50" playTime="1.0000000"/>
+				<step start="51" end="75" playTime="1.0000000"/>
+				<step start="76" end="100" playTime="1.0000000"/>
+				<step start="101" end="113" playTime="0.5000000"/>
+				<step start="114" end="138" playTime="1.0000000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Perhatikan Gambar Dibawah ini!
+Pikirkanlah bagaimana fisika menjelaskan kedua gambar diatas!!!
+
+
+
+
+</text>
+		</slide>
+		<slide index="2" title="That’s Right!!" titleNormalized="that’s right!!" src="slide3.swf" size="814766" advanceOnTime="0" framesCount="127" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="RandomTransition" duration="0.5000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000"/>
+				<step start="1" end="25" playTime="0.9990000"/>
+				<step start="26" end="50" playTime="1.0000000"/>
+				<step start="51" end="51" playTime="0.0010000"/>
+				<step start="52" end="76" playTime="0.9990000"/>
+				<step start="77" end="101" playTime="1.0000000"/>
+				<step start="102" end="126" playTime="1.0000000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>That’s Right!!
+ Fisika Menjelaskan Kedua Gambar diatas pada materi yang disebut dengan “FLUIDA”
+ Fluida merupakan sebuah zat yang dapat mengalir. Fluida memiliki sifat untuk tidak menolak terhadap perubahan bentuk atau kemampuan untuk mengalir.  kata fluida sendiri mencangkup zat cair, gas dan air karena kedua zat ini dapat mengalir. Fluida merupakan salah satu aspek yang paling penting dalam keghidupan sehari-hari. Setiap hari manusia menggunakan fluida untuk keberlangsungan kehidupan mereka seperti air yang diminum dan udara yang dihirup. Fluida dapat dibagi menjadi dua macam yaitu
+ Fluida Statis 
+ Fluida Dinamis
+Pada Slide Sebelumnya yang mana merupakan Fluida Statis dan Fluida Dinamis??</text>
+		</slide>
+		<slide index="3" title="" titleNormalized="" src="slide4.swf" size="222679" advanceOnTime="0" framesCount="77" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="RandomTransition" duration="0.5000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000"/>
+				<step start="1" end="25" playTime="0.9990000"/>
+				<step start="26" end="50" playTime="1.0000000"/>
+				<step start="51" end="51" playTime="0.0010000"/>
+				<step start="52" end="76" playTime="0.9990000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Fluida Statis
+
+
+Fluida Dinamis
+
+
+
+
+
+Fluida Statis merupakan fluida yang terletak dalam fase yang diam atau tidak bergerak atau pun dalam keadaan bergerak namun tidak ada perbedaan kecepatan antara pertikel fluida tersebut 
+Fluida dinamis adalah fluida (bisa berupa zat cair, gas) yang bergerak. Fluida ini dianggap steady (mempunyai kecepatan yang konstan terhadap waktu), tak termampatkan (tidak mengalami perubahan volume), tidak kental, tidak turbulen (tidak mengalami putaran-putaran). 
+
+</text>
+		</slide>
+		<slide index="4" title="Tahukah anda tentang FLUIDA IDEAL" titleNormalized="tahukah anda tentang fluida ideal" src="slide5.swf" size="30753" advanceOnTime="0" framesCount="89" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="RandomTransition" duration="0.5000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000"/>
+				<step start="1" end="25" playTime="0.9990000"/>
+				<step start="26" end="50" playTime="1.0000000"/>
+				<step start="51" end="63" playTime="0.5000000"/>
+				<step start="64" end="88" playTime="1.0000000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Tahukah anda tentang FLUIDA IDEAL 
+Kemukakanlah Pendapat mu tentang Fluida Ideal!!!</text>
+		</slide>
+		<slide index="5" title="“Fluida Ideal”" titleNormalized="“fluida ideal”" src="slide6.swf" size="230347" advanceOnTime="0" framesCount="54" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="RandomTransition" duration="0.5000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000"/>
+				<step start="1" end="25" playTime="0.9990000"/>
+				<step start="26" end="26" playTime="0.0010000"/>
+				<step start="27" end="27" playTime="0.0010000"/>
+				<step start="28" end="28" playTime="0.0010000"/>
+				<step start="29" end="53" playTime="0.9970000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>“Fluida Ideal”
+Saat mengalir, fluida ideal tidak mengalami gesekan oleh dinding tempatnya mengalir. Demikian pula, benda yang bergerak dalam fluida ideal tidak mendapatkan hambatan dari gaya gesekan. Aliran Fluida ideal dikatakan sebagai aliran laminer, artinya kecepatan aliran fluida pada sembarang titik tidak berubah terhadap waktu, baik besar maupun arahnya. Dalam aliran laminer, setiap titik pada fluida bergerak dengan kecepatan tetap dan tidak saling mendahului ataupun memotong yang lain.
+Fluida Ideal merupakan fluida yang tidak dapat dimampatkan atau dikatakan sebagai fluida yang tidak kompresibel, artinya volume dan massa jenisnya tidak berubah karena pengaruh tekanan.
+Jika lintasan suatu titik pada fluida dilukiskan, akan diperoleh garis lintasan yang disebut garis aliran. Garis aliran ini terbagai menjadi dua, yaitu garis aliran laminer (laminer flow) dan garis aliran turbulen (turbulent flow). Berbeda dengan garis aliran laminer yang kecepatan setiap titiknya tetap, pada garis turbulen kecepatan pada suatu titik dapat berubah.</text>
+		</slide>
+		<slide index="6" title="“Garis Aliran”" titleNormalized="“garis aliran”" src="slide7.swf" size="50688" advanceOnTime="0" framesCount="114" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="RandomTransition" duration="0.5000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000"/>
+				<step start="1" end="25" playTime="0.9990000"/>
+				<step start="26" end="50" playTime="1.0000000"/>
+				<step start="51" end="75" playTime="1.0000000"/>
+				<step start="76" end="88" playTime="0.5000000"/>
+				<step start="89" end="113" playTime="1.0000000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>“Garis Aliran”
+Kemukakanlah pendapatmu, apakah gambar diatas termasuk garis aliran laminer atau gari aliran turbulen!!!</text>
+		</slide>
+		<slide index="7" title="Persamaan Kontinuitas" titleNormalized="persamaan kontinuitas" src="slide8.swf" size="92659" advanceOnTime="0" framesCount="126" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="RandomTransition" duration="0.5000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000"/>
+				<step start="1" end="25" playTime="0.9990000"/>
+				<step start="26" end="50" playTime="1.0000000"/>
+				<step start="51" end="75" playTime="1.0000000"/>
+				<step start="76" end="100" playTime="1.0000000"/>
+				<step start="101" end="125" playTime="1.0000000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Persamaan Kontinuitas
+Pernahkah Anda Menyiramkan air dari kran menggunakan selang ? Saat Anda menutup sebagian mulut selang tersebut dengan jari, aliran air akan semakin deras.
+
+Bagaimana Hal Tersebut Dapat Terjadi ???</text>
+		</slide>
+		<slide index="8" title="Perhatikan Gambar Berikut!" titleNormalized="perhatikan gambar berikut!" src="slide9.swf" size="37546" advanceOnTime="0" framesCount="65" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="RandomTransition" duration="0.5000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000"/>
+				<step start="1" end="25" playTime="0.9990000"/>
+				<step start="26" end="26" playTime="0.0010000"/>
+				<step start="27" end="27" playTime="0.0010000"/>
+				<step start="28" end="28" playTime="0.0010000"/>
+				<step start="29" end="29" playTime="0.0010000"/>
+				<step start="30" end="30" playTime="0.0010000"/>
+				<step start="31" end="31" playTime="0.0010000"/>
+				<step start="32" end="32" playTime="0.0010000"/>
+				<step start="33" end="33" playTime="0.0010000"/>
+				<step start="34" end="34" playTime="0.0010000"/>
+				<step start="35" end="35" playTime="0.0010000"/>
+				<step start="36" end="36" playTime="0.0010000"/>
+				<step start="37" end="37" playTime="0.0010000"/>
+				<step start="38" end="38" playTime="0.0010000"/>
+				<step start="39" end="39" playTime="0.0010000"/>
+				<step start="40" end="64" playTime="0.9860000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Keterangan :
+M	=	massa fluida
+ ρ	=	massa jenis fluida
+V 	=	volume fluida
+v	=	kecepatan aliran
+A	=	luas penampang
+Untuk fluida ideal (tidak kompresibel), ρ tetap sehingga 
+	V1 = V2
+	A1 (v1 ∆t) = A2 (v2 ∆t)
+Untuk ∆t yang sama 
+		A1 v1 = A2 v2
+Perhatikan Gambar Berikut!
+Fluida mengalir di dalam sebuah pipa yang mempunyai luas penampang berbeda . Dalam selang waktu (∆t) tertentu, pada pipa dengan luas penampang A1, fluida menempuh jarak (v1 ∆t). Pada pipa dengan luas penampang A2, fluida menempuh jarak (v2 ∆t). Jumlah massa yang mengalir dalam selang waktu tersebut baik pada pipa A1 maupun pada pipa A2 adalah sama. Secara matematis, dituliskan.
+m1 = m2
+ρ V1 = ρ V2</text>
+		</slide>
+		<slide index="9" title="" titleNormalized="" src="slide10.swf" size="11224" advanceOnTime="0" framesCount="34" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="RandomTransition" duration="0.5000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000"/>
+				<step start="1" end="1" playTime="0.0010000"/>
+				<step start="2" end="2" playTime="0.0010000"/>
+				<step start="3" end="3" playTime="0.0010000"/>
+				<step start="4" end="4" playTime="0.0010000"/>
+				<step start="5" end="5" playTime="0.0010000"/>
+				<step start="6" end="6" playTime="0.0010000"/>
+				<step start="7" end="7" playTime="0.0010000"/>
+				<step start="8" end="8" playTime="0.0010000"/>
+				<step start="9" end="33" playTime="0.9910000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Persamaan A1 v1 = A2 v2 dinamakan persamaan kontinuitas. Dari persamaan tersebut diketahui bahwa pada fluida tidak kompresibel , hasil kali antara laju aliran(v) dan luas penampang (A) selalu mempunyai nilai yang tetap. Hasil kali laju aliran (v) dan luas penampang (A) dinamakan debit aliran, (Q).
+Q = A.v
+Sehingga persamaan diatas dapat dituliskan menjadi
+A1 v1 = A2 v2 
+ Q1 = Q2 
+ dengan : 
+Q1 = debit aliran pada pipa 1
+Q2 = debit aliran pada pipa 2</text>
+		</slide>
+		<slide index="10" title="Terima Kasih! " titleNormalized="terima kasih! " src="slide11.swf" size="42969" advanceOnTime="0" framesCount="26" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="RandomTransition" duration="0.5000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000"/>
+				<step start="1" end="25" playTime="0.9990000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Terima Kasih! </text>
+		</slide>
+	</slides>
+</presentation>
